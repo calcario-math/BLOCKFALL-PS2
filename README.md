@@ -10,10 +10,15 @@ Criador do projeto: Calcario-math
 Controles
 
 ← - bloco vai para direita
+
 → - bloco vai para esquerda
+
 ↓ - acelera a queda 
+
 X - gira o bloco 
+
 ○ - bloco cai instantaneo
+
 START - Pausar / iniciar / Reiniciar
 
 Como executar
