@@ -25,7 +25,7 @@ e copie e cole a pasta BLOCKFALL-PS2 para pasta APP do seu pendrive ou HD do PS2
 Estado do projeto
 
 Em desenvolvimento.
-Testado em um PlayStation 2 físico. nao testei no emulador PCSX2 
+Testado em um PlayStation 2 físico. nao testei no emulador PCSX2,
 ainda tem alguns bugs para ser corrigidos 
 
 esse "main.js" e o codigo fonte do projeto, para vocês usarem
