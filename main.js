@@ -1,6 +1,6 @@
 
 // ===================================
-// BLOCKFALL PS2 - VERSAO 2.0
+// BLOCKFALL PS2 - VERSAO 1.0
 // AthenaEnv - PlayStation 2
 // ===================================
 
