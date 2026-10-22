@@ -1,7 +1,8 @@
 BlockFall PS2 
 
 Um jogo de blocos inspirado no clássico Tetris, desenvolvido em JavaScript utilizando AthenaEnv para PlayStation 2
-Um projeto independente desenvolvido com auxílio de inteligência artificial (OpenAI) 
+
+Esse um projeto independente desenvolvido com auxílio de inteligência artificial (OpenAI) 
 Engine: AthenaEnv, desenvolvido por Daniel Santos.
 Criador do projeto: Calcario-math
 
