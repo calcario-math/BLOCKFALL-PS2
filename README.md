@@ -20,8 +20,7 @@ START - Pausar / iniciar / Reiniciar
 Como instalar o jogo no PS2
 
 Extraia o arquivo zip no seu PC/ANDROID
-e copie e cole a pasta BLOCKFALL-PS2 para pasta APP do seu pendrive ou HD do PS2.
-
+e copie e cole a pasta BLOCKFALL-PS2 para pasta APP do seu pendrive ou HD do PS2 e so abrir ulaunchelf e executar o arquivo elf e pronto so jogar.
 
 Estado do projeto
 
