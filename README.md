@@ -9,18 +9,12 @@ Criador do projeto: Calcario-math
 
 Controles
 
-Botão
-Ação
-Direcional ← →
-Movimentar
-Direcional ↓
-Acelerar
-X
-Girar
-Círculo
-Queda instantânea
-START
-Pausar / iniciar
+← - bloco vai para direita
+→ - bloco vai para esquerda
+↓ - acelera a queda 
+X - gira o bloco 
+○ - bloco cai instantaneo
+START - Pausar / iniciar / Reiniciar
 
 Como executar
 
